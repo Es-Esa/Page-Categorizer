@@ -21,7 +21,7 @@ Very simple pluggin for Wordpress
  
 ![image](https://github.com/Es-Esa/Page-Categorizer/assets/74989195/fc98eeeb-2720-4569-b507-55a0dcaecbeb)
 
--Click to make new categories and organize your pages.
+-Click "Page Categories" to make new categories and organize your pages.
 
 ![image](https://github.com/Es-Esa/Page-Categorizer/assets/74989195/53850025-6162-4ccf-bcf9-1e4b1f89f296)
 
