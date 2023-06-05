@@ -1,5 +1,5 @@
 # Page-Categorizer
-Very simple pluggin for Wordpress
+Very simple plugin for Wordpress
 
 
  * Plugin Name: Page Categorizer
