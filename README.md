@@ -8,7 +8,7 @@ Very simple pluggin for Wordpress
  * Author: Henrik Viljanen henrikviljanen.fi
  * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- *
+ 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as
  * published by the Free Software Foundation.
