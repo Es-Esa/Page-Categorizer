@@ -16,6 +16,7 @@ Very simple plugin for Wordpress
  
  # Installation
  -Copy repo and zip the file
+ 
  -Go to wordpress plugin manager and upload and install the zip.
  
  
